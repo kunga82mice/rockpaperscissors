@@ -1,11 +1,6 @@
-// *************************** YOUR CODE BELOW *******************************
-//******************TEST EARLY AND OFTEN USING console.log() ******************
-//****************** SERIOUSLY TEST USING console.log()!!! ******************
+$("#shoot").click(function(){
 
-//GLOBAL VARIABLES
-/* global $ */
-
-
-
-// DOCUMENT READY FUNCTION BELOW
-
+    let message = Math.random();
+    console.log(message);
+});
+ 
